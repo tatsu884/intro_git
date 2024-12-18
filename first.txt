@@ -1,0 +1,8 @@
+はじめてのGitテキストファイルです
+Gitの練習をしていきます
+GitHubのアカウントがだぶっていたので変えました
+git add
+git commit
+追加
+
+gitdiff
